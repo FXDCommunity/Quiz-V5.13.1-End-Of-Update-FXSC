@@ -14,7 +14,7 @@ let questions = [
     {
         numb: 2,
         question: "Huruf Apa Ini? し",
-        answer: " Shi",
+        answer: "Shi",
         options: [
             "Shi",
             "Ne",
