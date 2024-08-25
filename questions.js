@@ -2,77 +2,77 @@ let questions = [
     {
         numb: 1,
         question:
-            "Game FPS Terkenal Tapi DiTinggalkan DiKarenakan Banyaknya Cheater Adalah?",
-        answer: "A. CSGO",
+            "Huruf Apa Ini? あ",
+        answer: "A",
         options: [
-            "A. CSGO",
-            "B. Free Fire",
-            "C. Point Blank",
-            "D. Call Of Duty"
+            "E",
+            "Ne",
+            "A",
+            "Fu"
         ]
     },
     {
         numb: 2,
-        question: "Game Minecraft BerKategori Sebagai Game?",
-        answer: "D. Sandbox+Adventure",
+        question: "Huruf Apa Ini? し",
+        answer: " Shi",
         options: [
-            "A. RPG",
-            "B. Adventure",
-            "C. Sandbox",
-            "D. Sandbox+Adventure"
+            "Shi",
+            "Ne",
+            "Fu",
+            "Ta"
         ]
     },
     {
         numb: 3,
-        question: "Game Solo Leveling : ARISE Terinspirasi Dari Anime?",
-        answer: "B. Solo Leveling",
+        question: "Huruf Apa Ini? れ",
+        answer: "Re",
         options: [
-            "A. One Piece",
-            "B. Solo Leveling",
-            "C. One Punch Man",
-            "D. Tidak Ada"
+            "Nu",
+            "E",
+            "Ke",
+            "Re"
         ]
     },
     {
         numb: 4,
-        question: "???",
-        answer: "???",
-        options: ["???", "???", "???", "???"] 
+        question: "Huruf Apa Ini? ね",
+        answer: "Ne",
+        options: ["Ne", "I", "Wo", "Fu"] 
     },
     {
         numb: 5,
-        question: "???",
-        answer: "???",
-        options: ["???", "???", "???", "???"]
+        question: "Huruf Apa Ini? ち",
+        answer: "Chi",
+        options: ["Wo", "Nn", "Chi", "Ra"]
     },
     {
         numb: 6,
-        question: "???",
-        answer: "???",
-        options: ["???", "???", "???", "???"]
+        question: "Huruf Apa Ini? ふ",
+        answer: "Fu",
+        options: ["Fu", "Ta", "Ne", "No"]
     },
     {
         numb: 7,
-        question: "???",
-        answer: "???",
-        options: ["???", "???", "???", "???"]
+        question: "Huruf Apa Ini? め",
+        answer: "Me",
+        options: ["Sa", "So", "Na", "Me"]
     },
     {
         numb: 8,
-        question: "???",
-        answer: "???",
-        options: ["???", "???", "???", "???"]
+        question: "Huruf Apa Ini? ぬ",
+        answer: "Nu",
+        options: ["O", "E", "Ka", "Nu"]
     },
     {
         numb: 9,
-        question: "???",
-        answer: "???",
-        options: ["???", "???", "???", "???"]
+        question: "Huruf Apa Ini? の",
+        answer: "No",
+        options: ["Ri", "Nn", "Tsu", "No"]
     },
     {
         numb: 10,
-        question: "???",
-        answer: "???",
-        options: ["???", "???", "???", "???"]
+        question: "Huruf Apa Ini? え",
+        answer: "E",
+        options: ["Ta", "Ke", "E", "Nn"]
     }
 ];
